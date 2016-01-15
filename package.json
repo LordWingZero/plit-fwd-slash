@@ -1,0 +1,23 @@
+{
+  "name": "split-fwd-slash",
+  "version": "1.0.0",
+  "description": "Can format text in fun ways",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LordWingZero/plit-fwd-slash"
+  },
+  "scripts": {
+    "test": "mocha",
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "author": "Victorio Berra",
+  "license": "ISC",
+  "dependencies": {
+    "irc-colors": "^1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.1.1"
+  }
+}
