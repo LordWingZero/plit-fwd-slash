@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LordWingZero/plit-fwd-slash"
+    "url": "https://github.com/LordWingZero/split-fwd-slash"
   },
   "scripts": {
     "test": "mocha",
